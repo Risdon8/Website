@@ -1,0 +1,6 @@
+.head {
+    background-color: aquamarine;
+    justify-content: center;
+    display: flex;
+    font-size: 2em;
+}
