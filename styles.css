@@ -4,3 +4,11 @@
     display: flex;
     font-size: 2em;
 }
+
+h1 {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(100, 25, 150);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
