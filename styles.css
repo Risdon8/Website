@@ -1,0 +1,21 @@
+.head {
+    background-color: aquamarine;
+    justify-content: center;
+    display: flex;
+    font-size: 2em;
+
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(100, 25, 150);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.opener {
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(90deg, rgba(127, 127, 200) 33%, rgb(75, 80, 130));
+}
