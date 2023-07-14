@@ -3,6 +3,7 @@
     justify-content: center;
     display: flex;
     font-size: 2em;
+    margin: auto;
 
 }
 
@@ -11,6 +12,8 @@ h1 {
     justify-content: center;
     background-color: rgb(100, 25, 150);
     font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: auto;
+    border-radius: 20% 20% 20% 20%;
 
 }
 
