@@ -21,4 +21,5 @@ h1 {
     display: flex;
     justify-content: center;
     background: linear-gradient(90deg, rgba(127, 127, 200) 33%, rgb(75, 80, 130));
+    margin: auto;
 }
