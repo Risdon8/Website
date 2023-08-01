@@ -1,3 +1,4 @@
+
 .head {
     background-color: aquamarine;
     justify-content: center;
@@ -25,3 +26,27 @@ h1 {
     margin: auto;
 }
 
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    /* Add other styles as needed */
+  }
+  
+  .head {
+    /* Add styles for the header section */
+  }
+  
+  .opener {
+    /* Add styles for the opener paragraph */
+  }
+  
+  nav {
+    /* Add styles for the navigation links */
+  }
+  
+  .form-list {
+    /* Add styles for the form list */
+  }
+  
+  /* Add any other custom styles as needed */
+  
