@@ -15,6 +15,7 @@ h1 {
     margin: auto;
     border-radius: 20% 20% 20% 20%;
     font-weight: 100;
+    border-style: dashed;
 }
 
 .opener {
