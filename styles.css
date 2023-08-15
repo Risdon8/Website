@@ -52,3 +52,9 @@ body {
   
   /* Add any other custom styles as needed */
   
+.square {
+  transition: transform 1s;
+}
+.square:hover {
+  transform: rotate(360deg);
+}
